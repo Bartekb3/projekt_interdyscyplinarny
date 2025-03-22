@@ -1,0 +1,6 @@
+Dataset Name,Source,ID/Code,Num Observations,Num Features,Categorical Features,Numeric Features,% Null Values,Target,Target Mean,Target Median,Target Min,Target Max,Target Std Dev,Target IQR,Target Skewness,Target Outlier %,Target CV,Target Unique Values,Top Correlated Feature,Top Correlation Value,Domain
+Student Performance,UCI,320,649,30,17,13,0.0,G1,11.399,11.0,0.0,19.0,2.745,3.0,-0.003,0.15,0.241,17,failures,-0.384,unknown
+Infrared Thermography Temperature,UCI,925,1020,33,3,30,0.01,aveOralF,36.979,36.9,35.75,39.6,0.386,0.3,2.537,2.84,0.01,53,T_Max1,0.753,unknown
+Abalone,UCI,1,4177,8,1,7,0.0,Rings,9.934,9.0,1.0,29.0,3.224,3.0,1.114,1.48,0.325,28,Shell_weight,0.628,unknown
+Parkinsons Telemonitoring,UCI,189,5875,19,0,19,0.0,motor_UPDRS,21.296,20.871,5.0377,39.511,8.129,12.596,0.075,0.0,0.382,1080,age,0.274,unknown
+Wine Quality,UCI,186,6497,11,0,11,0.0,quality,5.818,6.0,3.0,9.0,0.873,1.0,0.19,0.54,0.15,7,alcohol,0.444,unknown
