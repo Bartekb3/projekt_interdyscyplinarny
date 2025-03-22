@@ -1,0 +1,40 @@
+{
+  "dataset_name": "Abalone",
+  "id": 1,
+  "target": "Rings",
+  "num_observations": 4177,
+  "num_features": 8,
+  "numeric_features": [
+    "Length",
+    "Diameter",
+    "Height",
+    "Whole_weight",
+    "Shucked_weight",
+    "Viscera_weight",
+    "Shell_weight"
+  ],
+  "categorical_features": [
+    "Sex"
+  ],
+  "%_null_values": 0.0,
+  "target_mean": 9.934,
+  "target_median": 9.0,
+  "target_min": 1,
+  "target_max": 29,
+  "target_std_dev": 3.224,
+  "target_skewness": 1.114,
+  "target_coefficient_of_variation": 0.325,
+  "target_outlier_%": 1.48,
+  "target_IQR": 3.0,
+  "target_unique_values": 28,
+  "feature_target_correlations": {
+    "Length": 0.557,
+    "Diameter": 0.575,
+    "Height": 0.557,
+    "Whole_weight": 0.54,
+    "Shucked_weight": 0.421,
+    "Viscera_weight": 0.504,
+    "Shell_weight": 0.628
+  },
+  "source": "UCI"
+}
